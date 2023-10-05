@@ -10,6 +10,7 @@ namespace vendingmachine
     {
         static void Main(string[] args)
         {
+            // creation date 10/5/2023
             //     i hope you think this is good because its stolen hours from me
             // 
             double price = 0; //defining price outside of the loop so it isnt overwritten
