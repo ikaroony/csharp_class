@@ -10,6 +10,7 @@ namespace packageWeight
     {
         static void Main(string[] args)
         {
+            //creation date 9/18/2023
             Console.WriteLine("Please enter the weight of your package in pounds."); //prompting user
             string input = Console.ReadLine(); //collecting input
             double w = Convert.ToDouble(input); //convert string to integer
