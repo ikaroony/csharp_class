@@ -1,17 +1,30 @@
 # csharp_class
 stuff i made in my csharp class
 
+you can view these files as text
 
-order of creation:
+all of these come from a .cs filetype
 
+## more about
+these were made in microsoft visual studio 2022 *(aka vs22)*
 
-celsiusConverter
+all files were the resulting program.cs files
 
-centsConverter
+if you want to run these on your computer go nuts
 
-circleArea
+running in terminal is so much work but [here is a guide i found online](https://www.geeksforgeeks.org/how-to-execute-c-sharp-program-on-cmd-command-line/)
 
-packageWeight
+creation date is listed in each file as a comment in the first(ish) line of main
 
-vendingMachine
+## order of creation:
+
+> celsiusConverter
+> 
+> centsConverter
+> 
+> circleArea
+> 
+> packageWeight
+> 
+> vendingMachine
 
